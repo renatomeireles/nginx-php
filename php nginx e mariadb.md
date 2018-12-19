@@ -2,9 +2,13 @@
 # PHP e NGINX  com MariaDB
 ### Versões utilizadas
 **Sistema**: [CentOS 7.6.1810](http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-1810.iso)
+
 **Kernel**: [3.10.0-957.1.3.e17.x86_64](https://rpmfind.net/linux/RPM/centos/updates/7.6.1810/x86_64/Packages/kernel-3.10.0-957.1.3.el7.x86_64.html)
+
 **Nginx**: [1.12.2](https://nginx.org/en/download.html)
+
 **PHP**:  [5.4.16](http://php.net/releases/5_4_16.php) (cli)
+
 **Banco de dados MariaDB**:  [5.5.60-MariaDB - MariaDB Server](https://mariadb.org/mariadb-5-5-60-now-available/)
 
 ---
