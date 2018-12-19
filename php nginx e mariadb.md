@@ -101,33 +101,60 @@ Conferindo status do php-fpm:
 >**Caso seja necessário utilizar outros módulos do php, segue uma lista:**
 >
 >php-bcmath - A module for PHP applications for using the bcmath library
-php-cli - Command-line interface for PHP
-php-common - Common files for PHP
-php-dba - A database abstraction layer module for PHP applications
-php-devel - Files needed for building PHP extensions
-php-embedded - PHP library for embedding in applications
-php-enchant - Enchant spelling extension for PHP applications
-php-fpm - PHP FastCGI Process Manager
-php-gd - A module for PHP applications for using the gd graphics library
-php-imap - A module for PHP applications that use IMAP
-php-intl - Internationalization extension for PHP applications
-php-ldap - A module for PHP applications that use LDAP
-php-mbstring - A module for PHP applications which need multi-byte string handling
-php-mcrypt - Standard PHP module provides mcrypt library support
-php-mysql - A module for PHP applications that use MySQL databases
-php-mysqlnd - A module for PHP applications that use MySQL databases
-php-odbc - A module for PHP applications that use ODBC databases
-php-pdo - A database access abstraction module for PHP applications
-php-pear.noarch - PHP Extension and Application Repository framework
-php-pecl-memcache - Extension to work with the Memcached caching daemon
-php-pgsql - A PostgreSQL database module for PHP
-php-process - Modules for PHP script using system process interfaces
-php-pspell - A module for PHP applications for using pspell interfaces
-php-recode - A module for PHP applications for using the recode library
-php-snmp - A module for PHP applications that query SNMP-managed devices
-php-soap - A module for PHP applications that use the SOAP protocol
-php-xml - A module for PHP applications which use XML
-php-xmlrpc - A module for PHP applications which use the XML-RPC protocol
+
+>php-cli - Command-line interface for PHP
+
+>php-common - Common files for PHP
+
+>php-dba - A database abstraction layer module for PHP applications
+
+>php-devel - Files needed for building PHP extensions
+
+>php-embedded - PHP library for embedding in applications
+
+>php-enchant - Enchant spelling extension for PHP applications
+
+>php-fpm - PHP FastCGI Process Manager
+
+>php-gd - A module for PHP applications for using the gd graphics library
+
+>php-imap - A module for PHP applications that use IMAP
+
+>php-intl - Internationalization extension for PHP applications
+
+>php-ldap - A module for PHP applications that use LDAP
+
+>php-mbstring - A module for PHP applications which need multi-byte string handling
+
+>php-mcrypt - Standard PHP module provides mcrypt library support
+
+>php-mysql - A module for PHP applications that use MySQL databases
+
+>php-mysqlnd - A module for PHP applications that use MySQL databases
+
+>php-odbc - A module for PHP applications that use ODBC databases
+
+>php-pdo - A database access abstraction module for PHP applications
+
+>php-pear.noarch - PHP Extension and Application Repository framework
+
+>php-pecl-memcache - Extension to work with the Memcached caching daemon
+
+>php-pgsql - A PostgreSQL database module for PHP
+
+>php-process - Modules for PHP script using system process interfaces
+
+>php-pspell - A module for PHP applications for using pspell interfaces
+
+>php-recode - A module for PHP applications for using the recode library
+
+>php-snmp - A module for PHP applications that query SNMP-managed devices
+
+>php-soap - A module for PHP applications that use the SOAP protocol
+
+>php-xml - A module for PHP applications which use XML
+
+>php-xmlrpc - A module for PHP applications which use the XML-RPC protocol
 
 ### Configuração do Nginx:
 
