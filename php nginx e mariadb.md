@@ -297,5 +297,5 @@ A partir deste momento o servidor está configurado e é possível instalar CMS,
 >**Recomendação:** Ao criar uma nova base de dados no banco, criar também um usuário específico para acesso ao mesmo e evitar utilização do usuário root.
 Para isto, basta selecionar a base criada e clicar em "Privilégios" depois "Adicionar utilizador". Preencha os dados de usuário e marque a opção "Grant all privileges on database"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTE1NjkxMF19
+eyJoaXN0b3J5IjpbMTQ4MTI4MjY0MCwtMjE5MTU2OTEwXX0=
 -->
